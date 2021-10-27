@@ -2,8 +2,6 @@ body{
     background-color:purple;
 }
 p{
-    font-family:monospaced;
-    text-align:center;
     color:lightpink;
 }
 .special{
@@ -13,10 +11,8 @@ p{
     text-align:left;
 }
 h1,h2,h3,h4,h5,h6{
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
     color:lightyellow;
     font-style:italic;
-    text-align:right;
 }
 h1{
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
@@ -54,4 +50,14 @@ li{
 }
 a{
     color:white;
+}
+
+
+/*Cake page*/
+.cake-text{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align:left;
+    color:white;
+    font-size:25px;
+    font-weight:bold;
 }
