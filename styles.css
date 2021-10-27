@@ -6,7 +6,17 @@ p{
     text-align:center;
     color:lightpink
 }
-h1,h2,h3,h4,h5,h6{
+
+h1{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:150px;
+    color:white;
+    font-style:normal;
+}
+h2{
+    color:black;
+}
+h3,h4,h5,h6{
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     color:lightyellow;
     font-style:italic;
